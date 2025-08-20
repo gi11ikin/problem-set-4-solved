@@ -1,4 +1,4 @@
-PROBLEM SET #4: CREATING NEWTORKS FROM JSON DATA 
+PROBLEM SET #4: CREATING NETWORKS FROM JSON DATA 
 
 Instructions: 
 - Clone the Problem Set 4 code package from GitHub into VS Code
