@@ -1,7 +1,7 @@
-PROBLEM SET #1: CREATING NEWTORKS FROM JSON DATA 
+PROBLEM SET #4: CREATING NEWTORKS FROM JSON DATA 
 
 Instructions: 
-- Clone the Problem Set 1 code package from GitHub into VS Code
+- Clone the Problem Set 4 code package from GitHub into VS Code
 - You should align the code package with your GitHub account 
 - Read through the Problem Set 1.pptx deck posted in ELMS
 - You will use imbd_movie data for both parts of this problem set: https://github.com/cbuntain/umd.inst414/blob/main/data/imdb_movies_2000to2022.prolific.json?raw=true
@@ -23,6 +23,6 @@ Submission:
 You will submit the URL for this repo in your GitHub in ELMS.
 
 Grading: 
-Ali and I will look to make sure you've output the correct CSV files. We will only run main.py, so make sure that you stucture this correctly and push your final code. Credit will be given for adhering to the course's Code Standards and Data Standards, using GitHub correctly, and producing the correct output, among other considerations. 
+We will look to make sure you've output the correct CSV files. We will only run main.py, so make sure that you stucture this correctly and push your final code. Credit will be given for adhering to the course's Code Standards and Data Standards, using GitHub correctly, and producing the correct output, among other considerations. 
 
 
