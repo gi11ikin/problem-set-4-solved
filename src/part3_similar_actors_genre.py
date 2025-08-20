@@ -70,7 +70,7 @@ matrix = df_ag.pivot_table(
 X = matrix.values
 ids = matrix.index
 
-# Select query actor (Chris Hemsworth)
+# Select query actor -> Chris Hemsworth
 query_id = "nm1165110"
 if query_id not in ids.get_level_values(0):
     print("Query actor not found in dataset.")

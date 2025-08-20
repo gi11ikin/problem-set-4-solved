@@ -3,3 +3,6 @@ pandas
 json
 numpy
 networkx
+datetime
+ast
+sklearn
